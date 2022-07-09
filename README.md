@@ -1,3 +1,10 @@
+<p align="center">
+The objective of this repository is to track my codes done throughout the course Python from Coderhouse.
+
+---------------------------------------------------------------------------------------------------------
+
+
+
 [<p >
  <img align="center" alt="alt_text" width="70px" src="https://user-images.githubusercontent.com/108837573/178119027-dce51883-b3a6-47d9-af59-42c61b6fa39a.png" />]((https://www.coderhouse.com.uy/online/python)/)Programa del curso de Python
 </p>
